@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alda-1995&label=Profile%20views&color=0e75b6&style=flat" alt="alda-1995" /> </p>
 
-- 🔭 I’m currently working on [AutenticacionJwtIdentityNet6](https://github.com/alda-1995/AutenticacionJwtIdenty)
+- 🔭 I’m currently working on [ServiciosLocales Proyecto Personal](https://github.com/alda-1995/ServiciosLocales)
 
 - 🌱 I’m currently learning **React, C#, Asp.Net Core, Asp.Net Core Web Api, Vue, Next js**
 
