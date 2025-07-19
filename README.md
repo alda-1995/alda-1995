@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alda-1995&label=Profile%20views&color=0e75b6&style=flat" alt="alda-1995" /> </p>
 
-- 🔭 I’m currently working on [ManoSeguras Proyecto Personal](https://github.com/alda-1995/ServiciosLocales)
+- 🔭 I’m currently working on personal portfolio.
 
-- 🌱 I’m currently learning **.NET 6, Identity, Asp.net Mvc**
+- 🌱 I’m currently learning backend,frontend y animation 3D.
 
 - 💬 Ask me about **react, vue**
 
